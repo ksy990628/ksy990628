@@ -5,7 +5,7 @@
 - 🔭 Currently working on SiliconValley Internship program.
 - 🌱 Currently learning ```React```,```SpringBoot``` and ```Deep Learning```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
-<!-- - ⚡ Fun fact:  -->
+- ⚡ Fun fact: Like to sing, but I'm not good at singing.
 
 <h2>Tech Stack</h2>
 <ul>
