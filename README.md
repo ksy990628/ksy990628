@@ -3,9 +3,9 @@
 <p></p>
 
 - 🔭 Currently working on SiliconValley Internship program.
-- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```OpenCV```,```Machine Learning```.
+- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Machine Learning```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
-- ⚡ Fun fact: Like to sing, but I'm not good at singing.
+- ⚡ Fun fact: -
 
 <h2>Tech Stack</h2>
 <ul>
