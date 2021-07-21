@@ -3,7 +3,7 @@
 <p></p>
 
 - 🔭 Currently working on SiliconValley Internship program.
-- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Machine Learning```.
+- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Redis```,```Machine Learning```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
 - ⚡ Fun fact: -
 
