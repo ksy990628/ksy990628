@@ -2,8 +2,8 @@
  &nbsp;&nbsp;&nbsp;Studying computer science and engineering at Ewha Womans University, South Korea.
 <p></p>
 
-- 🔭 Currently working on Techeer.
-- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Redis```,```Machine Learning```.
+- 🔭 Currently working on -.
+- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Docker```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
 - ⚡ Fun fact: -
 
