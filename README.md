@@ -3,7 +3,7 @@
 <p></p>
 
 - 🔭 Currently working on -.
-- 🌱 Currently learning ```React```,```SpringBoot```,```Flask```,```Docker```.
+- 🌱 Currently learning ```React```,```SpringBoot```,```Docker```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
 - ⚡ Fun fact: -
 
