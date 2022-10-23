@@ -1,5 +1,5 @@
 <h2> :sunglasses: About me :sunglasses:</h2>
- &nbsp;&nbsp;&nbsp;Studying computer science and engineering at Ewha Womans University, South Korea.
+ &nbsp;&nbsp;&nbsp;Studied computer science and engineering at Ewha Womans University, South Korea.
 <p></p>
 
 - 🔭 Currently working on ```Gmarket```.
