@@ -18,5 +18,5 @@
   
   <li><b>Database:</b> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   
-  <li><b>Etc:</b> Git, Github, Velog, Slack, Notion, RabbitMQ, Celery
+  <li><b>Etc:</b> Git, Github, Velog, Slack, Jira, Notion, RabbitMQ, Celery
 </ul>
