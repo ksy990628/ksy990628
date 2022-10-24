@@ -20,3 +20,6 @@
   
   <li><b>Etc:</b> Git, Github, Velog, Slack, Jira, Notion, RabbitMQ, Celery
 </ul>
+
+<br/><br/>
+[![ksy990628's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksy990628&theme=radical&count_private=true)](https://github.com/ksy990628/github-readme-stats)
