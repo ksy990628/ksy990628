@@ -3,7 +3,7 @@
 <p></p>
 
 - 🔭 Currently working on ```Gmarket```.
-- 🌱 Currently learning ```SpringBoot```.
+- 🌱 Currently learning ```Spring```, ```MSSQL```, ```Kafka```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
 - ⚡ Fun fact: -
 
