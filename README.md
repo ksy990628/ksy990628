@@ -2,7 +2,7 @@
  &nbsp;&nbsp;&nbsp;Studied computer science and engineering at Ewha Womans University, South Korea.
 <p></p>
 
-- 🔭 Currently working on ```Gmarket```.
+- 🔭 Currently working on ``````.
 - 🌱 Currently learning ```Spring```, ```MSSQL```, ```MongoDB```.
 - 📫 How to reach me: Contact me by email! ksy990628@gmail.com
 - ⚡ Fun fact: -
